@@ -1,0 +1,12 @@
+{
+  "name": "greenspace-REST-api",
+  "version": "1.0.0",
+  "description": "REST api examp with greenspace temp data",
+  "main": "index.js",
+  "repository": "git@github.com:mercantilism/greenspace-REST-api.git",
+  "author": "mercantilism <samuel.galen.gardner@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
+}
